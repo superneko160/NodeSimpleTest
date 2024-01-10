@@ -1,6 +1,5 @@
 /**
  * Unit Test
- * Test: node MyMathTest.js
  */
 const assert = require('assert')
 const { add } = require('./MyMath')
